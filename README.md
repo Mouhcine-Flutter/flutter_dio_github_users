@@ -16,6 +16,6 @@ Flutter app retrieves public user accounts via the GitHub API and can open this 
 
 # Demo
 
-<div><img style="width:250px;" src="https://Mouhcine-Flutter.github.io/images/gituser_demo1.png"></div>
-<div><img style="width:250px;" src="https://Mouhcine-Flutter.github.io/images/gituser_demo2.png"></div>
+<div><img style="width:250px;" src="https://Mouhcine-Flutter.github.io/images/gituser_demo1.png">
+<img style="width:250px;" src="https://Mouhcine-Flutter.github.io/images/gituser_demo2.png"></div>
 
