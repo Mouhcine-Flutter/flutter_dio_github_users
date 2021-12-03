@@ -2,7 +2,7 @@
 
 Flutter app retrieves public user accounts via the GitHub API and can open this account to view it from the application
 
-### features
+### dependencies
 
 * [Flutter 2.5](https://docs.flutter.dev/development/tools/sdk/release-notes)
 * [dio](https://pub.dev/packages/dio)
